@@ -24,7 +24,7 @@ quote23 = "I am Beyonce, always. — Michael Scott"
 quote24 = "If I can’t scuba, then what’s this all been about? What am I working toward? – Creed Bratton"
 quote25 = "I love inside jokes. I’d love to be a part of one someday. — Michael Scott"
 quote26 = "Boy, have you done lost your mind? Cause I’ll help you find it! — Stanley Hudson"
-quote27 = "Jim told me you could buy gay-dar online. — Dwight"
+quote27 = "Jim told me you could buy gay-dar online. — Dwight Schrute"
 quote28 = "Nobody steals from Creed Bratton and gets away with it. The last person to do this disappeared. His name? Creed Bratton. – Creed Bratton"
 quote29 = "I already won the lottery. I was born in the US of A baby. And as backup I have a Swiss passport. – Creed Bratton"
 quote30 = "I want you to rub butter on my foot…Pam, please? I have Country Crock. — Michael Scott"
@@ -129,65 +129,7 @@ quote128 = ""
 quote129 = ""
 quote130 = ""
 import random
-print (random.choice([quote38, quote39, quote40, quote41, quote42, quote43, quote44, quote45, quote46, quote47, quote48, quote49, quote50 ,quote51, quote52, quote53, quote54, quote55, quote56, quote57, quote58, quote59, quote60, quote61, quote62, quote63, quote64, quote65, quote66, quote67, quote68, quote69noice,]))
-quote70 
-quote71 
-quote72 
-quote73 
-quote74 
-quote75 
-quote76 
-quote77 
-quote78 
-quote79 
-quote80 
-quote81 
-quote82 
-quote83 
-quote84 
-quote85 
-quote86
-quote87 
-quote88 
-quote89 
-quote90 
-quote91 
-quote92 
-quote93 
-quote94 
-quote95 
-quote96 
-quote97 
-quote98 
-quote99 
-quote100 
-quote101 
-quote102 
-quote103 
-quote104 
-quote105 
-quote106 
-quote107 
-quote108 
-quote109 
-quote110 
-quote111 
-quote112 
-quote113 
-quote114 
-quote115 
-quote116 
-quote117 
-quote118 
-quote119 
-quote120 
-quote121 
-quote122 
-quote123 
-quote124 
-quote125 
-quote126 
-quote127 
-quote128 
-quote129 
-quote130
+print (random.choice([quote1, quote2, quote3, quote4, quote5, quote6, quote7, quote8, quote9, quote10, quote11, quote12, quote13, quote14, quote15, quote16, quote17, quote18, quote19, quote20, quote21, quote22, quote23, quote24, quote25, quote26, quote27, quote28, quote29, quote30, quote31, quote32, quote33, quote34, quote35, quote36, quote69noice,]))
+
+#stored for later below
+# quote37, quote38, quote39, quote40, quote41, quote42, quote43, quote44, quote45, quote46, quote47, quote48, quote49, quote50, quote51, quote52, quote53, quote54, quote55, quote56, quote57, quote58, quote59, quote60, quote61, quote62, quote63, quote64, quote65, quote66, quote67, quote68, quote70, quote71, quote72, quote73, quote74, quote75, quote76, quote77, quote78, quote79, quote80, quote81, quote82, quote83, quote84, quote85, quote86, quote87, quote88, quote89, quote90, quote91, quote92, quote93, quote94, quote95, quote96, quote97, quote98, quote99, quote100, quote101, quote102, quote103, quote104, quote105, quote106, quote107, quote108, quote109, quote110, quote111, quote112, quote113, quote114, quote115, quote116, quote117, quote118, quote119, quote120, quote121, quote122, quote123, quote124, quote125, quote126, quote127, quote128, quote129, quote130
